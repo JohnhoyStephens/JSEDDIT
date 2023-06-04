@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JSEDDIT/static/css/main.c948a4aa.css",
+    "main.js": "/JSEDDIT/static/js/main.82a81ccd.js",
+    "static/js/787.8dcf1840.chunk.js": "/JSEDDIT/static/js/787.8dcf1840.chunk.js",
+    "index.html": "/JSEDDIT/index.html",
+    "main.c948a4aa.css.map": "/JSEDDIT/static/css/main.c948a4aa.css.map",
+    "main.82a81ccd.js.map": "/JSEDDIT/static/js/main.82a81ccd.js.map",
+    "787.8dcf1840.chunk.js.map": "/JSEDDIT/static/js/787.8dcf1840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c948a4aa.css",
+    "static/js/main.82a81ccd.js"
+  ]
+}
